@@ -12,8 +12,8 @@ const swaggerDocumentation = {
   },
   servers: [
     {
-      url: "http://localhost:5000",
-      description: "local dev",
+      url: "https://testevcodes.herokuapp.com/",
+      description: "heroku",
     },
   ],
   tags: [
